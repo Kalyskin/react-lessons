@@ -1,0 +1,14 @@
+.clock {
+  display: flex;
+  width: 400px;
+  min-height: 40px;
+  border: 1px solid #2296f3;
+  border-radius: 5px;
+  padding: 8px 12px;
+  justify-content: center;
+  align-items: center;
+}
+.clock__text {
+  font-weight: 700;
+  color: #2296f3;
+}
